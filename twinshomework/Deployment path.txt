@@ -1,0 +1,17 @@
+Duties of Ron
+    Create skelliton site --done
+    create collaboration tools  --Github  https://github.com/Magnathia/twins-site
+    find tools to install on chromebook for the collaboration  -- Notepad++
+    find deployment location
+    map HTML pages to views
+    map images correctly
+    Deploy final product
+
+
+Duties of Twins
+    Identify 1 in state and 1 out of state collage each
+    collect info on selected schools
+    collect images of selected schools
+    Pick core CSS framework
+    write HTML pages for each school, include the pictures
+    push work to git repo in correct locations
